@@ -1,4 +1,4 @@
-FROM node:iron
+FROM node:20.20.0-bookworm
 
 ARG BUILDING_SERVICE
 
